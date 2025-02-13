@@ -1,0 +1,23 @@
+{
+  "name": "react-oauth-client",
+  "version": "1.0.0",
+  "description": "A custom OAuth client for React applications.",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashokdevatwal/react-oauth-client.git"
+  },
+  "keywords": ["react", "oauth", "authentication"],
+  "author": "Ashok Devatwal",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.x.x",
+    "react": "^18.x.x",
+    "react-router-dom": "^6.x.x"
+  },
+  "peerDependencies": {
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x"
+  }
+}
